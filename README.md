@@ -1,5 +1,5 @@
 # OTP_genrator
-The OTP Genrator using Speakeasy package
+The OTP(One Time Password) Genrator using NPM Speakeasy.js package
 the otp would be valid for 30 sec only
 
 you can use this otp genrator and send otp 
